@@ -1,8 +1,21 @@
-name: "my-website"
+name: "Emily's Academic Website"
 navbar:
-  title: "My Website"
+  title: "Emily G. Simmonds"
   left:
-    - text: "Home"
-      href: index.html
     - text: "About"
-      href: about.html
+      href: index.html
+    - text: "Publications"
+      href: Publications.html
+    - text: "Contact"
+      href: Contact.html
+  right:
+   - icon: "fa-google"
+     href: https://scholar.google.com/citations?user=jwKwykEAAAAJ&hl=en
+   - icon: "fa-github"
+     href: https://github.com/emilygsimmonds/
+output:
+  html_document:
+    theme: flatly
+    css: style-chapters.css
+    include:
+      after_body: my_footer.html

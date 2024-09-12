@@ -1,9 +1,26 @@
 ---
-title: "My Website"
+title: "Emily G. Simmonds"
 ---
 
-Hello, Website!
+</br>
 
-For more information about simple R Markdown websites, please read the documentation at https://bookdown.org/yihui/rmarkdown/rmarkdown-site.html.
+```{r my_image, echo=FALSE, fig.align='right', out.width = "350px", out.extra='style="float:right; padding:10px; border-radius: 50%"'}
+knitr::include_graphics("images/Me.jpg")
+```
 
-Please also note that simple R Markdown sites are _not_ based on **blogdown**. They are probably good for websites with only a few Rmd documents. For larger-scale and more sophisticated websites (such as blogs), you may want to use **blogdown** instead: https://github.com/rstudio/blogdown.
+<p style="line-height: 2; color:teal; font-size:17px;">
+I am a quantitative ecologist with an interest in understanding how biological systems are influenced by their environment. My work looks at forecasting how individuals and populations respond to weather and climatic changes. My approach focuses on methodological innovation and refinement, alongside ecological insight. I have a particular interest in improving how we quantify and communicate uncertainty.
+</p>
+
+</br>
+
+<p style="line-height: 2; color:teal; font-size:17px;">
+**Currently, I am exploring patterns and drivers of ecological predictability as a Chancellor's Fellow at the University of Edinburgh.**
+</p>
+
+
+</br>
+
+```{r blue_tit, echo=FALSE, fig.align='centre', out.width = "900px", fig.cap="Bemused blue tit photo by Emily G. Simmonds"}
+knitr::include_graphics("images/Landing_page_image.png")
+```

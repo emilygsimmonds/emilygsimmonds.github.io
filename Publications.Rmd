@@ -1,0 +1,94 @@
+---
+title: "Publications"
+---
+
+
+<p style="line-height: 1; font-size:15px;">
+You can find a full list of my published work on [my Google Scholar profile](https://scholar.google.com/citations?user=jwKwykEAAAAJ&hl=en) but I list my top highlights here.
+</p>
+
+</br>
+
+## In prep/pre-prints
+
+</br>
+</br>
+
+## Journal Articles
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Uncertainty propagation in matrix population models: Gaps, importance and guidelines**
+</p>
+
+Emily G. Simmonds and Owen R. Jones 
+**Methods in Ecology and Evolution** (2024) [link](https://doi.org/10.1111/2041-210X.14276)
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Recommendations for quantitative uncertainty consideration in ecology and evolution**
+</p>
+
+Emily G Simmonds, Kwaku P Adjei, Benjamin Cretois, Lisa Dickel, Ricardo González-Gil, Jack H Laverick, Caitlin P Mandeville, Elizabeth G Mandeville, Otso Ovaskainen, Jorge Sicacha-Parada, Emma S Skarstein, Bob O'Hara 
+
+**Trends in Ecology and Evolution** (2023) [link](10.1016/j.tree.2023.10.012)
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Recommendations for quantitative uncertainty consideration in ecology and evolution**
+</p>
+
+Emily G Simmonds, Kwaku P Adjei, Benjamin Cretois, Lisa Dickel, Ricardo González-Gil, Jack H Laverick, Caitlin P Mandeville, Elizabeth G Mandeville, Otso Ovaskainen, Jorge Sicacha-Parada, Emma S Skarstein, Bob O'Hara 
+
+**Trends in Ecology and Evolution** (2023) [link](10.1016/j.tree.2023.10.012)
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Insights into the quantification and reporting of model-related uncertainty across different disciplines**
+</p>
+
+Emily G Simmonds, Kwaku Peprah Adjei, Christoffer Wold Andersen, Janne Cathrin Hetle Aspheim, Claudia Battistin, Nicola Bulso, Hannah M Christensen, Benjamin Cretois, Ryan Cubero, Iván A Davidovich, Lisa Dickel, Benjamin Dunn, Etienne Dunn-Sigouin, Karin Dyrstad, Sigurd Einum, Donata Giglio, Haakon Gjerløw, Amélie Godefroidt, Ricardo González-Gil, Soledad Gonzalo Cogno, Fabian Große, Paul Halloran, Mari F Jensen, John James Kennedy, Peter Egge Langsæther, Jack H Laverick, Debora Lederberger, Camille Li, Elizabeth G Mandeville, Caitlin Mandeville, Espen Moe, Tobias Navarro Schröder, David Nunan, Jorge Sicacha-Parada, Melanie Rae Simpson, Emma Sofie Skarstein, Clemens Spensberger, Richard Stevens, Aneesh C Subramanian, Lea Svendsen, Ole Magnus Theisen, Connor Watret, Robert B O’Hara 
+
+**iScience** (2022) [link](10.1016/j.isci.2022.105512)
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Phenological asynchrony: a ticking time‐bomb for seemingly stable populations?**
+</p>
+
+Emily G Simmonds, Ella F Cole, Ben C Sheldon, Tim Coulson 
+
+**Ecology Letters** (2020) [link](https://doi.org/10.1111/ele.13603)
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Is more data always better? A simulation study of benefits and limitations of integrated distribution models**
+</p>
+
+Emily G. Simmonds, Susan G. Jarvis, Peter A. Henrys, Nick J. B. Isaac, Robert B. O'Hara 
+
+**Ecography** (2020) [link](https://doi.org/10.1111/ecog.05146)
+
+</br>
+
+
+
+## Book Chapters
+
+</br>
+
+<p style="line-height: 1; color:teal; font-size:15px;">
+**Genetic data collection, pedigrees, and phylogenies**
+</p>
+
+Emily G Simmonds, Alina K Niskanen, Henrik Jensen, Steven Smith
+
+**Demographic Methods Across the Tree of Life** (2021) [link](https://books.google.co.uk/books?hl=en&lr=&id=Cno8EAAAQBAJ&oi=fnd&pg=PA17&dq=info:iQcz_aHzvPQJ:scholar.google.com&ots=Dkl1e6lJcX&sig=0rF_Bv_pGPqwBfOhKeh9C5WcjYw&redir_esc=y#v=onepage&q&f=false)
+
+</br>
